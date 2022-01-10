@@ -2,7 +2,7 @@
 
 This is the code project for the [Hello, Lambda!](https://davidpallmann.hashnode.dev/hello-lambda) blog post. 
 
-This episode: Lambda Functions. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
+This episode: Lambda Functions. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/series/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
 In this post we'll introduce AWS Lambda functions and write a "Hello, Cloud" in C#. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. If you've never worked with serverless, prepare to have your mind blown.
 
